@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "donttakedamage",
+  "version": "1.0.0",
+
+  "name": "Don't Take Damage",
+  "description": "Can you beat Minecraft without taking damage? Yes? Ok, then try it with this mod. If you even take a little bit of damage, your PC will *LITERALLY* blue screen.",
+  "authors": [
+    "DevPieter"
+  ],
+  "contact": {
+    "homepage": "https://devpieter.nl/minecraft/minecraft-mod/dont-take-damage/",
+    "sources": "https://github.com/DevPieter/dont-take-damage/"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/donttakedamage/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "nl.devpieter.donttakedamage.DontTakeDamage"
+    ]
+  },
+  "mixins": [
+    "donttakedamage.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
