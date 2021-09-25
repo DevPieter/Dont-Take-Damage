@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/static/v1?label=By&message=DevPieter&color=blueviolet"/>
 </p>
 
+## WARNING: DevPieter isn't responsible for any damage or data loss!
+
+<br>
+
 # About
 Can you beat Minecraft without taking damage?
 
