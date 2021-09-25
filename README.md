@@ -19,6 +19,13 @@ Can you beat Minecraft without taking damage?
 Yes? Ok, then try it with this mod.
 
 If you even take a little bit of damage, your PC will **LITERALLY** blue screen.
+
+<br>
+
+[~~Download~~](#)
+
+[BSOD Trigger (for Don't Take Damage)](https://github.com/DevPieter/BSOD-Trigger-for-Dont-Take-Damage)
+
 <br><br>
 
 <br>
