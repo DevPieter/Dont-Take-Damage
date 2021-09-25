@@ -25,4 +25,5 @@ If you even take a little bit of damage, your PC will **LITERALLY** blue screen.
 <img src="https://img.shields.io/static/v1?label=Minecraft&amp;message=1.17&amp;color=critical" alt="Minecraft">
 <img src="https://img.shields.io/static/v1?label=Minecraft&amp;message=1.17.1&amp;color=success" alt="Minecraft">
 <br> <br> <br>
+<img src="https://github.com/DevPieter/Dont-Take-Damage/raw/main/src/main/resources/assets/donttakedamage/icon.png" alt="Inco"/>
 </p>
