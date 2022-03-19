@@ -15,9 +15,7 @@
 
 # About
 Can you beat Minecraft without taking damage?
-
 Yes? Ok, then try it with this mod.
-
 If you even take a little bit of damage, your PC will **LITERALLY** blue screen.
 
 <br>
